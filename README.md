@@ -1,5 +1,7 @@
 # T-Rex Runner
 
+> Projeto desenvolvido no **bootcamp de desenvolvimento de jogos da DIO**.
+
 Recriação em **HTML, CSS e JavaScript** do jogo do dinossauro que aparece no Google Chrome quando não há conexão com a internet.
 
 ![T-Rex Runner](assets/screenshot.gif)
